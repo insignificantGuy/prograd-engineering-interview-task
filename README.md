@@ -1,6 +1,6 @@
-# Otta - Engineering Interview Task
+# Engineering Interview Task
 
-This is the take-home interview task for engineering job applications at Otta.
+This is the take-home interview task for engineering job applications at ProGrad.
 
 The goal is to both give you a flavour of the kind of work we do, and give us an idea of your technical (and non-technical) skills. The key thing we're assessing is your level of pragmatism, but we're also interested in code style and how you structure the problem (so please don't just do it in SQL!)
 
@@ -14,7 +14,7 @@ The following details the individual tasks. Please complete **all** of the them.
 
 ### Task 1
 
-In the `data` folder of this repo there is a CSV file called `reactions.csv`. It contains real data corresponding to how users on Otta have reacted to (saved or skipped) jobs on the platform.
+In the `data` folder of this repo there is a CSV file called `reactions.csv`. It contains real data corresponding to how users on ProGrad have reacted to (saved or skipped) jobs on the platform.
 
 The reaction data consists of four columns:
 
@@ -37,7 +37,7 @@ In the `data` folder there is an additional CSV file called `jobs.csv`. It conta
 
 ### Task 3
 
-Engineering at Otta is truly full-stack. Features are owned end-to-end, from backend and database-level work to front-end finishes.
+Engineering at ProGrad is truly full-stack. Features are owned end-to-end, from backend and database-level work to front-end finishes.
 
 We don't think it's fair to ask you to build something with a UI, as we know this can take a while and time is precious. Instead, we'd love to see an example of something you've already built and hear about what you learned building it.
 
@@ -59,6 +59,6 @@ Once you've completed all of the above tasks, make sure:
 
 - [ ] You've committed all of the code used, and your edited answers, to the `main` branch
 - [ ] You've pushed the changes to your repo
-- [ ] You add `XavKearney` and `billyotta` as contributors for your personal repo, and send a link to the repo in an email or Otta message to us
+- [ ] You add `XavKearney` and `billyotta` as contributors for your personal repo, and send a link to the repo in an email or ProGrad message to us
 
 Good luck!
