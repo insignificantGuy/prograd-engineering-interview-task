@@ -25,7 +25,7 @@ The reaction data consists of four columns:
 
 **Task**: The similarity score between two users is the number of jobs which they both like. Find the two users with the highest similarity.
 
-**Answer**: _[Enter the two user IDs & their similarity score here]_
+**Answer**: _[SimilarityScore: 181, userID:['1791','5193']]_
 
 ### Task 2
 
@@ -33,7 +33,7 @@ In the `data` folder there is an additional CSV file called `jobs.csv`. It conta
 
 **Task**: The similarity score between two companies is the number of users who like at least one job at both companies. Using both the `reactions.csv` and `jobs.csv` data, find the two companies with the highest similarity score.
 
-**Answer**: _[Enter the two company IDs & their similarity score here]_
+**Answer**: _[SimilarityScore: 104, userID:['46','92']]_
 
 ### Task 3
 
@@ -47,18 +47,18 @@ We don't think it's fair to ask you to build something with a UI, as we know thi
 - If the best example of your work is something you've done at a company, it's okay to link to a live deployed version
 - If you can't link to anything, a screenshot is also fine
 
-**Answer**: _[Add a link to repo/website/screenshot here]_
+**Answer**: _[https://pandaclothingstore.herokuapp.com/]_
 
 **Task**: Tell us about the biggest challenge you faced in building the above.
 
-**Answer**: _[Write your answer here (300 words max)]_
+**Answer**: _[he above website was built by me when I was trying to learn React. Learning react and simultaneously creating a website was a hectic task for me. Whenever I used to get stuck somewhere, I had to revise my codebase entirely to get understood the root cause of the problem. While it was a tiring task, it was fun task as well. I understood what react is and how important reusable components are in react. I was able to understand better thanks to above project.]_
 
 ## Submission
 
 Once you've completed all of the above tasks, make sure:
 
-- [ ] You've committed all of the code used, and your edited answers, to the `main` branch
-- [ ] You've pushed the changes to your repo
-- [ ] You add `XavKearney` and `billyotta` as contributors for your personal repo, and send a link to the repo in an email or ProGrad message to us
+- [X] You've committed all of the code used, and your edited answers, to the `main` branch
+- [X] You've pushed the changes to your repo
+- [X] You add `XavKearney` and `billyotta` as contributors for your personal repo, and send a link to the repo in an email or ProGrad message to us
 
 Good luck!

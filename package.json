@@ -1,0 +1,26 @@
+{
+  "name": "prograd-engineering-interview-task",
+  "version": "1.0.0",
+  "description": "Task Answer for interview task",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insignificantGuy/prograd-engineering-interview-task.git"
+  },
+  "author": "Rahul Negi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/insignificantGuy/prograd-engineering-interview-task/issues"
+  },
+  "homepage": "https://github.com/insignificantGuy/prograd-engineering-interview-task#readme",
+  "dependencies": {
+    "convert-csv-to-json": "^1.3.3",
+    "csv-parse": "^5.0.4",
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21"
+  }
+}
